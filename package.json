@@ -1,0 +1,22 @@
+{
+  "name": "problem-solving",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CallmeMehdi/problem-solving.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CallmeMehdi/problem-solving/issues"
+  },
+  "homepage": "https://github.com/CallmeMehdi/problem-solving#readme",
+  "dependencies": {
+    "mocha": "^9.1.2"
+  }
+}
