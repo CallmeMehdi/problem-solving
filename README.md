@@ -2,7 +2,7 @@
 
 A set of algorithms that solve some problems.
 
-##Testing
+## Testing
 
 For testing run `npm run test` and it will execute the `test.js` script using mocha.
 
