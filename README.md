@@ -1,4 +1,4 @@
-# problem-solving
+# Problem-solving
 
 A set of algorithms that solve some problems.
 
